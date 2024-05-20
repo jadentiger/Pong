@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="pongpelinayttotyo.exe" version="1.0.0.0" publicKeyToken="44c19db1befa14be" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="pongpelinayttotyo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="pongpelinayttotyo.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pongpelinayttotyo.exe" size="12712">
+      <assemblyIdentity name="pongpelinayttotyo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>pdlR/YYBCr9rr4sxUjY1dH6KmvKP44GrjZByMRNNxRU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="pongpelinayttotyo.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=AK\s3brja00" issuerKeyHash="7dfda9629b293ee188c388574e1a5cdcd71ae27a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wYsY36jF5hXLTd0FV3E04p3jo/U6EndPRrPQM8qvv6w=</DigestValue></Reference></SignedInfo><SignatureValue>OSghEaP/5KlVjwq83mWCiA87eFgG3SK/jdF2EykbIAPY3VuNGRb8+G4ItZrtDuL++kGQ6U3QumeF4Zdcxny4SiScNUJ/QNvHomCHbRLd8ShuCGvq9GBY+ahLqB5x/9sPJLBLtkiRNpCYs+LA7DI9f1bSYwKsji9MnkZZF00fDTk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tbwLWdUL/+fHBaXcvWy64KPkHSVm1jL1k20rQwS4AfAi9l4iV9B/J85nnBVtgWoVdfnTrR2mXgbusp87Zg4py0hMtslciZpS4Ut5jeCghVR/AEKYtNoQr5fDr1PjJFJP9BqtMGxY3BiOulNgTkoZW0uIylFkp2Je++mDumOtg1U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="acbfafca33d0b3464f77123af5a3e39de234715705dd4dcb15e6c5a8df188bc1" Description="" Url=""><as:assemblyIdentity name="pongpelinayttotyo.exe" version="1.0.0.0" publicKeyToken="44c19db1befa14be" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AK\s3brja00</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>q3edjmIlKorq2hrggN9woUWaorNxjmQzQ0fsaCdxdgA=</DigestValue></Reference></SignedInfo><SignatureValue>SkXbkNIqmOcuouWAgP32644TrgNQPNVHRhM1z+AYrLrtxGqWAn6TaETafViBXB+GyEXsPtWxHlMpmNtAZw2tmlHQOK4ceHldm1nFeIF9dVYTO7ix8lXptt/xPz4B4Sr1YmsFI0jm9BclODDUOwMm6eiEuU/Df5O+z8DEil9U0ns=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tbwLWdUL/+fHBaXcvWy64KPkHSVm1jL1k20rQwS4AfAi9l4iV9B/J85nnBVtgWoVdfnTrR2mXgbusp87Zg4py0hMtslciZpS4Ut5jeCghVR/AEKYtNoQr5fDr1PjJFJP9BqtMGxY3BiOulNgTkoZW0uIylFkp2Je++mDumOtg1U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQUADGKxiRC7dK3jDRjfCD7TANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYAQQBLAFwAcwAzAGIAcgBqAGEAMAAwMB4XDTI0MDQyNDA5NTI0N1oXDTI1MDQyNDE1NTI0N1owITEfMB0GA1UEAx4WAEEASwBcAHMAMwBiAHIAagBhADAAMDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtbwLWdUL/+fHBaXcvWy64KPkHSVm1jL1k20rQwS4AfAi9l4iV9B/J85nnBVtgWoVdfnTrR2mXgbusp87Zg4py0hMtslciZpS4Ut5jeCghVR/AEKYtNoQr5fDr1PjJFJP9BqtMGxY3BiOulNgTkoZW0uIylFkp2Je++mDumOtg1UCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBtOOL3rPSSpfesKqGpSNkqDMMbnnuwKLBG0zlxo3JXFDAYGheqmPpcuFX/Pqoysh2fGeicdcmzR3hxBqY/Cm3Pvnr5vlaIaqRQkFhFibclXUwo8zbUsCT6Zg4VN8k4vxojpMMyIXz05Nfkh4zD+J8b1uXB2R+tGzf+H/MzLR5dwA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

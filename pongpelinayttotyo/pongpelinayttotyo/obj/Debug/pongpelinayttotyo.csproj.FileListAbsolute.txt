@@ -1,0 +1,14 @@
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\bin\Debug\pongpelinayttotyo.exe.config
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\bin\Debug\pongpelinayttotyo.exe
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\bin\Debug\pongpelinayttotyo.pdb
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\obj\Debug\pongpelinayttotyo.csproj.AssemblyReference.cache
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\obj\Debug\pongpelinayttotyo.Form1.resources
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\obj\Debug\pongpelinayttotyo.Properties.Resources.resources
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\obj\Debug\pongpelinayttotyo.csproj.GenerateResource.cache
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\obj\Debug\pongpelinayttotyo.csproj.CoreCompileInputs.cache
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\obj\Debug\pongpelinayttotyo.exe
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\obj\Debug\pongpelinayttotyo.pdb
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\bin\Debug\pongpelinayttotyo.exe.manifest
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\bin\Debug\pongpelinayttotyo.application
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\obj\Debug\pongpelinayttotyo.exe.manifest
+C:\Users\s3brja00\OneDrive - OSAO\C#\pongpelinayttotyo\pongpelinayttotyo\obj\Debug\pongpelinayttotyo.application
