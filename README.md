@@ -1,9 +1,9 @@
 # Pong
 ## Description:
 
-![Näyttökuva 2024-05-21 194839](https://github.com/jadentiger/Pong/assets/163397461/d93b6288-1962-496e-a313-8ab0f1082e12)
-
 This is a simple classic game Pong using C# Windows Forms. The game features a player-controlled paddle and a computer-controlled paddle, with the objective of bouncing a ball past the opponent's paddle to score points.
+
+![Näyttökuva 2024-05-21 194839](https://github.com/jadentiger/Pong/assets/163397461/d93b6288-1962-496e-a313-8ab0f1082e12)
 
 # Flowchart for Pong Game
 
