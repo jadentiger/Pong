@@ -9,7 +9,7 @@ This is a simple classic game Pong using C# Windows Forms. The game features a p
 
 ---
 
-<img width="216" alt="C#pong" src="https://github.com/jadentiger/Pong/assets/163397461/7d4c4276-9945-429b-a7ba-264d16d3a552">
+<img width="227" alt="Pongflow" src="https://github.com/jadentiger/Pong/assets/163397461/e076fa04-3831-4b7c-b5b7-0e6fdcd78c03">
 
 ---
 
