@@ -9,39 +9,7 @@ This is a simple classic game Pong using C# Windows Forms. The game features a p
 
 ---
 
-**Start**
-
-1. Initialize components
-2. Subscribe to KeyDown and KeyUp events
-3. Start background music
-
-**Game Loop:**
-
-4. Move ball
-5. Check if ball hits top or bottom boundaries
-6. Check if ball goes out of left boundary
-    - Increment player score if true
-7. Check if ball goes out of right boundary
-    - Increment computer score if true
-8. Ensure computer paddle stays within boundaries
-9. Move computer paddle based on ball position
-10. Decrease speed change timer
-11. Change computer paddle speed randomly
-12. Move player paddle based on user input
-13. Check collision between ball and player paddle
-14. Check collision between ball and computer paddle
-15. Check if player or computer score reaches winning score
-    - If true, proceed to "Game Over"
-
-**Game Over:**
-
-16. Play score sound
-17. Stop game timer
-18. Show game over message
-19. Reset scores, ball speed, and timer
-20. Restart background music
-
-**End**
+<img width="216" alt="C#pong" src="https://github.com/jadentiger/Pong/assets/163397461/7d4c4276-9945-429b-a7ba-264d16d3a552">
 
 ---
 
